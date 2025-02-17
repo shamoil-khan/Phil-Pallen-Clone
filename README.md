@@ -18,7 +18,7 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/philpallen-clone.git
+git clone https://github.com/shamoil-khan/Phil-Pallen-Clone.git
 Open index.html in your browser.
 📜 License:
 This project is for educational purposes only and is not affiliated with Phil Pallen.
