@@ -11,7 +11,7 @@ This is a simple clone of Phil Pallen's website, built using only HTML and CSS. 
 HTML5
 CSS3 (Flexbox, Grid, Animations)
 🔗 Live Preview:
-(If deployed, add your live link here)
+https://shamoil-khan.github.io/Phil-Pallen-Clone/
 
 📁 Installation:
 Clone the repository:
